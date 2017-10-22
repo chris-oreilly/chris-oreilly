@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "devDependencies": {
+    "fs-extra": "^4.0.2",
+    "inliner": "^1.12.5"
+  }
+}
