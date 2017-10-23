@@ -7,7 +7,7 @@ body {
 }
 
 h1, h2 {
-  line-height: 1.0;
+  line-height: 1.15;
   margin: 0;
   border-bottom: 2px solid black;
 }
@@ -19,6 +19,5 @@ h1, h2 {
   text-decoration: none;
 }
 .social img {
-  vertical-align: middle;
   margin-left: 0.2em;
 }
