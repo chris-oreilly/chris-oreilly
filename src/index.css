@@ -19,6 +19,7 @@ h1, h2 {
   text-decoration: none;
 }
 .social img {
-  margin-left: 0.2em;
+  float: left;
+  margin-left: 0.4em;
   height: 2em;
 }
